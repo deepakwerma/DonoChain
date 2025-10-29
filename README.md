@@ -5,6 +5,8 @@ This contract allows anyone to donate Ether and provides full transparency by re
 The contract owner can withdraw and distribute funds while everyone can verify all transactions.
 
 ---
+<img width="1919" height="875" alt="Screenshot 2025-10-29 135514" src="https://github.com/user-attachments/assets/65dc51e6-9bc2-4b90-b67e-8022486fbba2" />
+https://celo-sepolia.blockscout.com/address/0xd53D5a902FC8ECEB68BEE14909B8BDE2781CE729
 
 ## 🧠 Features
 
